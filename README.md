@@ -1,2 +1,2 @@
 # usuariosdj
-Proyecto de la sección de usuarios
+Proyecto de la sección de usuarios django
